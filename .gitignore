@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+node_modules/
+config.json
+library.db
+package-lock.json
